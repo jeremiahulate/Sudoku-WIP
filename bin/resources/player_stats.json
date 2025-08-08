@@ -1,0 +1,44 @@
+{
+  "jeremiah": {
+    "username": "jeremiah",
+    "gamesPlayed": 1,
+    "gamesWon": 1,
+    "totalTimeSeconds": 627,
+    "fastestTime": 627,
+    "totalErrors": 1,
+    "totalCorrectMoves": 46,
+    "mistakeFrequency": {}
+  },
+  "deja": {
+    "username": "deja",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "totalTimeSeconds": 0,
+    "fastestTime": 2147483647,
+    "totalErrors": 14,
+    "totalCorrectMoves": 3,
+    "mistakeFrequency": {}
+  },
+  "test": {
+    "username": "test",
+    "gamesPlayed": 1,
+    "gamesWon": 1,
+    "totalTimeSeconds": 140,
+    "fastestTime": 140,
+    "totalErrors": 164,
+    "totalCorrectMoves": 47,
+    "mistakeFrequency": {
+      "3": 9
+    }
+  },
+  "test1": {
+    "username": "test1",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "totalTimeSeconds": 0,
+    "fastestTime": 2147483647,
+    "totalErrors": 0,
+    "totalCorrectMoves": 0,
+    "mistakeFrequency": {}
+  }
+}
