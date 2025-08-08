@@ -1,24 +1,4 @@
 {
-  "jeremiah": {
-    "username": "jeremiah",
-    "gamesPlayed": 1,
-    "gamesWon": 1,
-    "totalTimeSeconds": 627,
-    "fastestTime": 627,
-    "totalErrors": 1,
-    "totalCorrectMoves": 46,
-    "mistakeFrequency": {}
-  },
-  "deja": {
-    "username": "deja",
-    "gamesPlayed": 0,
-    "gamesWon": 0,
-    "totalTimeSeconds": 0,
-    "fastestTime": 2147483647,
-    "totalErrors": 14,
-    "totalCorrectMoves": 3,
-    "mistakeFrequency": {}
-  },
   "test": {
     "username": "test",
     "gamesPlayed": 1,
